@@ -45,12 +45,6 @@ testes funcionais e certificações de bandeiras.
 
 <div align="left">
 
-<div align="left">
-
-<img src="https://skillicons.dev/icons?i=js,git,github,vscode,python,docker,postgres" />
-
-<br><br>
-
 <img src="https://img.shields.io/badge/EMV-Meios%20de%20Pagamento-0A66C2?style=for-the-badge&logo=creditcard&logoColor=white" />
 
 <img src="https://img.shields.io/badge/ISO8583-Transactions-228B22?style=for-the-badge&logo=databricks&logoColor=white" />
