@@ -44,8 +44,6 @@ testes funcionais e certificações de bandeiras.
 🎯 Construir projetos de automação com Playwright  
 🎯 Aprofundar conhecimentos em backend e APIs  
 🎯 Fortalecer inglês
-🎯 Compartilhar conhecimento sobre adquirência e EMV
-🎯 Fortalecer inglês
 
 ---
 
