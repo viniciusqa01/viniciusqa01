@@ -36,9 +36,6 @@ testes funcionais e certificações de bandeiras.
 - Cenários de regressão
 - QA em meios de pagamento
 
-### Estudando atualmente
-- Automação de testes
-
 ---
 
 ## 📈 Objetivos
