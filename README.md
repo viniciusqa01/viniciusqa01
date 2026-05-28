@@ -41,22 +41,6 @@ testes funcionais e certificações de bandeiras.
 
 ---
 
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="left">
-
-<img src="https://img.shields.io/badge/EMV-Meios%20de%20Pagamento-0A66C2?style=for-the-badge&logo=creditcard&logoColor=white" />
-
-<img src="https://img.shields.io/badge/ISO8583-Transactions-228B22?style=for-the-badge&logo=databricks&logoColor=white" />
-
-<img src="https://img.shields.io/badge/QA-Engineer-FF8C00?style=for-the-badge&logo=testinglibrary&logoColor=white" />
-
-<img src="https://img.shields.io/badge/Acquiring-Payments-6A0DAD?style=for-the-badge&logo=visa&logoColor=white" />
-
-</div>
-
----
-
 ## 📈 Objetivos
 
 🎯 Evoluir para QA Automation Engineer  
