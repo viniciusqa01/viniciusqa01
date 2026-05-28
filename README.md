@@ -13,7 +13,7 @@ testes funcionais e certificações de bandeiras.
 
 ## 🚀 Sobre mim
 
-💳 Experiência prática com testes de adquirência e subadquirência  
+💳 Experiência prática com testes funcionais e bandeiras para adquirência e subadquirência  
 💳 Vivência com bandeiras Visa, Mastercard, Elo, Amex e JCB  
 💳 Conhecimento em EMV e mensagens ISO 8583  
 
