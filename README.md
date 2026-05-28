@@ -40,8 +40,7 @@ testes funcionais e certificações de bandeiras.
 
 ## 📈 Objetivos
 
-🎯 Evoluir para QA Automation Engineer  
-🎯 Construir projetos de automação com Playwright  
+🎯 Evoluir para QA Automation Engineer   
 🎯 Aprofundar conhecimentos em backend e APIs  
 🎯 Compartilhar conhecimento sobre adquirência e EMV
 🎯 Fortalecer inglês
